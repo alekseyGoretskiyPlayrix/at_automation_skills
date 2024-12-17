@@ -1,0 +1,34 @@
+2024-12-12 16:23:27,581 - INFO - Starting test_check_value_in_list
+2024-12-12 16:23:27,581 - INFO - Finished test_check_value_in_list successfully
+2024-12-12 16:23:27,583 - INFO - Starting test_check_value_in_list
+2024-12-12 16:23:27,583 - INFO - Finished test_check_value_in_list successfully
+2024-12-12 16:23:27,584 - INFO - Starting test_check_value_in_list
+2024-12-12 16:23:27,584 - INFO - Finished test_check_value_in_list successfully
+2024-12-12 16:23:27,585 - INFO - Starting test_check_value_in_list
+2024-12-12 16:23:27,585 - INFO - Finished test_check_value_in_list successfully
+2024-12-12 16:23:27,586 - INFO - Starting test_check_value_in_list
+2024-12-12 16:23:27,586 - INFO - Finished test_check_value_in_list successfully
+2024-12-12 16:23:27,588 - INFO - Starting test_check_value_not_in_list
+2024-12-12 16:23:27,588 - INFO - Finished test_check_value_not_in_list successfully
+2024-12-12 16:23:27,589 - INFO - Starting test_check_value_not_in_list
+2024-12-12 16:23:27,589 - INFO - Finished test_check_value_not_in_list successfully
+2024-12-12 16:23:27,590 - INFO - Starting test_check_value_not_in_list
+2024-12-12 16:23:27,590 - INFO - Finished test_check_value_not_in_list successfully
+2024-12-12 16:33:59,672 - INFO - Starting test_check_value_in_list
+2024-12-12 16:33:59,672 - INFO - Finished test_check_value_in_list successfully
+2024-12-12 16:33:59,674 - INFO - Starting test_check_value_in_list
+2024-12-12 16:33:59,674 - INFO - Finished test_check_value_in_list successfully
+2024-12-12 16:33:59,675 - INFO - Starting test_check_value_in_list
+2024-12-12 16:33:59,675 - INFO - Finished test_check_value_in_list successfully
+2024-12-12 16:33:59,676 - INFO - Starting test_check_value_in_list
+2024-12-12 16:33:59,676 - INFO - Finished test_check_value_in_list successfully
+2024-12-12 16:33:59,677 - INFO - Starting test_check_value_in_list
+2024-12-12 16:33:59,677 - INFO - Finished test_check_value_in_list successfully
+2024-12-12 16:33:59,679 - INFO - Starting test_check_value_not_in_list
+2024-12-12 16:33:59,679 - INFO - Finished test_check_value_not_in_list successfully
+2024-12-12 16:33:59,680 - INFO - Starting test_check_value_not_in_list
+2024-12-12 16:33:59,680 - INFO - Finished test_check_value_not_in_list successfully
+2024-12-12 16:33:59,682 - INFO - Starting test_check_value_not_in_list
+2024-12-12 16:33:59,682 - INFO - Finished test_check_value_not_in_list successfully
+2024-12-12 16:33:59,683 - INFO - Starting test_check_list_length
+2024-12-12 16:33:59,683 - INFO - Finished test_check_list_length
